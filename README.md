@@ -56,6 +56,7 @@ If you find the library useful, please consider [sponsoring](https://github.com/
 - [`Octicons`](http://octicons.github.com) by Github, Inc. (v16.3.1, **250** icons)
 - [`Zocial`](http://zocial.smcllns.com/) by Sam Collins (v1.4.0, **100** icons)
 - [`SimpleLineIcons`](https://simplelineicons.github.io/) by Sabbir & Contributors (v2.5.5, **189** icons)
+- [`SwmIconPack`](https://www.figma.com/community/file/942053544758339202) by Daniel Wodziczka & Contributors (v2.1.0, **298** icons in **3** variants)
 
 ## Installation
 
